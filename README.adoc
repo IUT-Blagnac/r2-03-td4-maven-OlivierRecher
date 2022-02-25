@@ -1,7 +1,9 @@
 
+Pour utiliser mvn depuis une machine personnel 
 
-Ce TP vise à être capable de compiler un fichier Java sans être dépendant de son IDE favori.
-Cela permet :
+```
+set JAVA_HOME=C:\Program Files\Java\jdk-17.0.1
+```
 
 - d'être indépendant de tout IDE
 - de faire construire l'application de manière automatique (c'est pour plus tard, mais c'est ce qu'on appelle l'intégration continue)
